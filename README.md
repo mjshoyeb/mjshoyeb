@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mohammad Jalal Uddin Shoyeb
+# Hi, I'm Mohammad Jalal Uddin Shoyeb
 
-## 🧑‍💻 About Me
+## About Me
 I am a dedicated student of **Computer Science and Technology**, with a strong passion for **Graphic Design** and **Frontend Web Development**. I thrive on continuous learning and exploration, always seeking to broaden my skills and knowledge base. Teaching is a profound joy for me, as I find great fulfillment in sharing what I learn with others.
 
 ## 🎯 Interests
