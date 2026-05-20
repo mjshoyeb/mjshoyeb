@@ -2,7 +2,7 @@
 
 A passionate **Computer Science & Technology** student and developer focused on building efficient web solutions, system design, and exploring IoT architecture. I thrive at the intersection of clean coding, IT education, and strategic leadership.
 
-- 🔭 I’m currently focusing on advanced **Frontend Web Development** and **System Design**.
+- 🔭 I’m currently focusing on advanced **Web Development** and **System Design**.
 - 🎓 I enjoy sharing knowledge; my experience as an **IT Educator** helps me simplify complex tech concepts.
 - 🌐 Outside of tech, I serve as a **Zone Director for a national youth organization** and research **Geopolitics**.
 
